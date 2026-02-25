@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-Power_User-10a37f?logo=openai&logoColor=white&style=flat" height="64" />
 
 ## Learning and Certifications
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-IN_PROGRESS-ED1C24?logo=comptia&logoColor=white&style=flat" height="64" />
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-CERTIFIED-2196F3?logo=comptia&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-CERTIFIED-2196F3?logo=comptia&logoColor=white&style=flat" height="64" />
 </div>
 
