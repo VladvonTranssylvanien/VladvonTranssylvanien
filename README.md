@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/CompTIA_Tech%2B-CERTIFIED-2196F3?logo=comptia&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/AZ--900-IN_PROGRESS-0078D4?logo=microsoftazure&logoColor=white&style=flat" height="64" />
 <img src="https://img.shields.io/badge/SC--900-IN_PROGRESS-0078D4?logo=microsoft&logoColor=white&style=flat" height="64" />
-<img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?logo=tryhackme&logoColor=white&style=flat" height="64" />
+<img src="https://img.shields.io/badge/TryHackMe-Top_6%25-212C42?logo=tryhackme&logoColor=white&style=flat" height="64" />
 
 </div>
 
